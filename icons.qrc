@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="folder">icons/folder.svg</file>
+        <file alias="heart">icons/heart.svg</file>
+        <file alias="monitor">icons/monitor.svg</file>
+        <file alias="back">icons/back.svg</file>
+        <file alias="next">icons/next.svg</file>
+        <file alias="cancel">icons/cancel.svg</file>
+        <file alias="rotate">icons/reload.svg</file>
+        <file alias="home">icons/house.svg</file>
+    </qresource>
+</RCC>
